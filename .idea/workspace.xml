@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c79ffb30-5b97-4316-821e-eb370b8d3c03" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Employee/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3111">
+              <caret line="183" column="13" lean-forward="false" selection-start-line="183" selection-start-column="13" selection-end-line="183" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HRdashboard/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1054">
+              <caret line="62" column="39" lean-forward="false" selection-start-line="62" selection-start-column="39" selection-end-line="62" selection-end-column="39" />
+              <folding>
+                <marker date="1486499488000" expanded="true" signature="754:779" ph="SELECT usern... info" />
+                <marker date="1486499488000" expanded="true" signature="1228:1359" ph="INSERT INTO info... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="core.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HRdashboard/dashboard/css/core.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1683">
+              <caret line="99" column="14" lean-forward="false" selection-start-line="99" selection-start-column="14" selection-end-line="99" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="employee_details.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HRdashboard/html/employee_details.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8177">
+              <caret line="481" column="38" lean-forward="false" selection-start-line="481" selection-start-column="38" selection-end-line="481" selection-end-column="38" />
+              <folding>
+                <marker date="1488272215820" expanded="true" signature="293:311" ph="select * fro... info" />
+                <marker date="1488272215820" expanded="true" signature="828:967" ph="UPDATE info " />
+                <marker date="1488272215820" expanded="true" signature="1674:1788" ph="INSERT INTO family_information... " />
+                <marker date="1488272215820" expanded="true" signature="3547:3572" ph="SELECT usern... info" />
+                <marker date="1488272215820" expanded="true" signature="3697:3912" ph="UPDATE info " />
+                <marker date="1488272215820" expanded="true" signature="5714:5739" ph="SELECT usern... info" />
+                <marker date="1488272215820" expanded="true" signature="5839:6287" ph="UPDATE info " />
+                <marker date="1488272215820" expanded="true" signature="7012:7037" ph="SELECT usern... info" />
+                <marker date="1488272215820" expanded="true" signature="7137:7341" ph="UPDATE info " />
+                <marker date="1488272215820" expanded="true" signature="7776:7801" ph="SELECT usern... info" />
+                <marker date="1488272215820" expanded="true" signature="7901:8023" ph="UPDATE info " />
+                <marker date="1488272215820" expanded="true" signature="8321:8346" ph="SELECT usern... info" />
+                <marker date="1488272215820" expanded="true" signature="8446:8525" ph="UPDATE info " />
+                <marker date="1488272215820" expanded="true" signature="8821:8846" ph="SELECT usern... info" />
+                <marker date="1488272215820" expanded="true" signature="8946:9023" ph="UPDATE info " />
+                <marker date="1488272215820" expanded="true" signature="9394:9419" ph="SELECT usern... info" />
+                <marker date="1488272215820" expanded="true" signature="9519:9611" ph="UPDATE info " />
+                <marker date="1488272215820" expanded="true" signature="11006:11058" ph="update info " />
+                <marker date="1488272215820" expanded="true" signature="11810:11835" ph="select * fro... upload_data" />
+                <marker date="1488272215820" expanded="true" signature="12338:12459" ph="INSERT into upload_data... " />
+                <marker date="1488272215820" expanded="true" signature="21390:21408" ph="select * fro... info" />
+                <marker date="1488272215820" expanded="true" signature="21514:21542" ph="select * fro... info" />
+                <marker date="1488272215820" expanded="true" signature="21589:21635" ph="select * fro... family_information" />
+                <marker date="1488272215820" expanded="true" signature="21682:21721" ph="select * fro... upload_data" />
+                <marker date="1488272215820" expanded="true" signature="51298:51352" ph="..." />
+                <marker date="1488272215820" expanded="true" signature="51519:51573" ph="..." />
+                <marker date="1488272215820" expanded="true" signature="106755:106790" ph="select * fro... info" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="attendance.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HRdashboard/html/attendance.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="48" column="39" lean-forward="false" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
+              <folding>
+                <marker date="1488272435815" expanded="true" signature="482:561" ph="select * fro... attendance" />
+                <marker date="1488272435815" expanded="true" signature="928:1020" ph="UPDATE atten... " />
+                <marker date="1488272435815" expanded="true" signature="34267:34367" ph="UPDATE atten... " />
+                <marker date="1488272435815" expanded="true" signature="36866:36911" ph="select full_... info" />
+                <marker date="1488272435815" expanded="true" signature="38280:38516" ph="SELECT atten... attendance" />
+                <marker date="1488272435815" expanded="true" signature="38694:38986" ph="SELECT atten... attendance" />
+                <marker date="1488272435815" expanded="true" signature="42337:42609" ph="SELECT atten... attendance" />
+                <marker date="1488272435815" expanded="true" signature="42749:43045" ph="SELECT atten... attendance" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HRdashboard/html/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1156">
+              <caret line="68" column="52" lean-forward="false" selection-start-line="68" selection-start-column="52" selection-end-line="68" selection-end-column="52" />
+              <folding>
+                <marker date="1488272596047" expanded="true" signature="699:724" ph="SELECT usern... info" />
+                <marker date="1488272596047" expanded="true" signature="1196:1327" ph="INSERT INTO info... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="salary.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HRdashboard/html/salary.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1173">
+              <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+              <folding>
+                <marker date="1488272641766" expanded="true" signature="491:516" ph="SELECT usern... info" />
+                <marker date="1488272641766" expanded="true" signature="616:690" ph="UPDATE info " />
+                <marker date="1488272641766" expanded="true" signature="2765:2783" ph="select * fro... info" />
+                <marker date="1488272641766" expanded="true" signature="2890:2918" ph="select * fro... info" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="indexs.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HRdashboard/html/indexs.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding>
+                <marker date="1488273036797" expanded="true" signature="621:639" ph="select * fro... info" />
+                <marker date="1488273036797" expanded="true" signature="935:988" ph="UPDATE info " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index_employee_details.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HRdashboard/html/index_employee_details.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1105">
+              <caret line="65" column="66" lean-forward="false" selection-start-line="65" selection-start-column="66" selection-end-line="65" selection-end-column="66" />
+              <folding>
+                <marker date="1488272484730" expanded="true" signature="178:243" ph="SELECT * FRO... info" />
+                <marker date="1488272484730" expanded="true" signature="343:385" ph="SELECT * FRO... info" />
+                <marker date="1488272484730" expanded="true" signature="1609:1634" ph="SELECT usern... info" />
+                <marker date="1488272484730" expanded="true" signature="2075:2232" ph="INSERT INTO info... " />
+                <marker date="1488272484730" expanded="true" signature="41394:41431" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/._index.php" />
+        <option value="$PROJECT_DIR$/HRdashboard/dashboard/css/core.css" />
+        <option value="$PROJECT_DIR$/HRdashboard/html/employee_details.php" />
+        <option value="$PROJECT_DIR$/HRdashboard/html/attendance.php" />
+        <option value="$PROJECT_DIR$/HRdashboard/html/index_employee_details.php" />
+        <option value="$PROJECT_DIR$/HRdashboard/html/index.php" />
+        <option value="$PROJECT_DIR$/HRdashboard/html/salary.php" />
+        <option value="$PROJECT_DIR$/HRdashboard/html/indexs.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/HRdashboard/vendor/typicons/support/process/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HRproject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HRproject" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HRproject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HRproject" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HRdashboard" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HRproject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HRproject" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HRdashboard" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c79ffb30-5b97-4316-821e-eb370b8d3c03" name="Default" comment="" />
+      <created>1488271370207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1488271370207</updated>
+      <workItem from="1488271371746" duration="3857000" />
+      <workItem from="1488341694279" duration="70000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3927000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Employee/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3111">
+          <caret line="183" column="13" lean-forward="false" selection-start-line="183" selection-start-column="13" selection-end-line="183" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRdashboard/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" column="39" lean-forward="false" selection-start-line="62" selection-start-column="39" selection-end-line="62" selection-end-column="39" />
+          <folding>
+            <marker date="1486499488000" expanded="true" signature="754:779" ph="SELECT usern... info" />
+            <marker date="1486499488000" expanded="true" signature="1228:1359" ph="INSERT INTO info... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRdashboard/dashboard/css/core.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="99" column="14" lean-forward="false" selection-start-line="99" selection-start-column="14" selection-end-line="99" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRdashboard/html/employee_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8177">
+          <caret line="481" column="38" lean-forward="false" selection-start-line="481" selection-start-column="38" selection-end-line="481" selection-end-column="38" />
+          <folding>
+            <marker date="1488272215820" expanded="true" signature="293:311" ph="select * fro... info" />
+            <marker date="1488272215820" expanded="true" signature="828:967" ph="UPDATE info " />
+            <marker date="1488272215820" expanded="true" signature="1674:1788" ph="INSERT INTO family_information... " />
+            <marker date="1488272215820" expanded="true" signature="3547:3572" ph="SELECT usern... info" />
+            <marker date="1488272215820" expanded="true" signature="3697:3912" ph="UPDATE info " />
+            <marker date="1488272215820" expanded="true" signature="5714:5739" ph="SELECT usern... info" />
+            <marker date="1488272215820" expanded="true" signature="5839:6287" ph="UPDATE info " />
+            <marker date="1488272215820" expanded="true" signature="7012:7037" ph="SELECT usern... info" />
+            <marker date="1488272215820" expanded="true" signature="7137:7341" ph="UPDATE info " />
+            <marker date="1488272215820" expanded="true" signature="7776:7801" ph="SELECT usern... info" />
+            <marker date="1488272215820" expanded="true" signature="7901:8023" ph="UPDATE info " />
+            <marker date="1488272215820" expanded="true" signature="8321:8346" ph="SELECT usern... info" />
+            <marker date="1488272215820" expanded="true" signature="8446:8525" ph="UPDATE info " />
+            <marker date="1488272215820" expanded="true" signature="8821:8846" ph="SELECT usern... info" />
+            <marker date="1488272215820" expanded="true" signature="8946:9023" ph="UPDATE info " />
+            <marker date="1488272215820" expanded="true" signature="9394:9419" ph="SELECT usern... info" />
+            <marker date="1488272215820" expanded="true" signature="9519:9611" ph="UPDATE info " />
+            <marker date="1488272215820" expanded="true" signature="11006:11058" ph="update info " />
+            <marker date="1488272215820" expanded="true" signature="11810:11835" ph="select * fro... upload_data" />
+            <marker date="1488272215820" expanded="true" signature="12338:12459" ph="INSERT into upload_data... " />
+            <marker date="1488272215820" expanded="true" signature="21390:21408" ph="select * fro... info" />
+            <marker date="1488272215820" expanded="true" signature="21514:21542" ph="select * fro... info" />
+            <marker date="1488272215820" expanded="true" signature="21589:21635" ph="select * fro... family_information" />
+            <marker date="1488272215820" expanded="true" signature="21682:21721" ph="select * fro... upload_data" />
+            <marker date="1488272215820" expanded="true" signature="51298:51352" ph="..." />
+            <marker date="1488272215820" expanded="true" signature="51519:51573" ph="..." />
+            <marker date="1488272215820" expanded="true" signature="106755:106790" ph="select * fro... info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRdashboard/html/attendance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="39" lean-forward="false" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
+          <folding>
+            <marker date="1488272435815" expanded="true" signature="482:561" ph="select * fro... attendance" />
+            <marker date="1488272435815" expanded="true" signature="928:1020" ph="UPDATE atten... " />
+            <marker date="1488272435815" expanded="true" signature="34267:34367" ph="UPDATE atten... " />
+            <marker date="1488272435815" expanded="true" signature="36866:36911" ph="select full_... info" />
+            <marker date="1488272435815" expanded="true" signature="38280:38516" ph="SELECT atten... attendance" />
+            <marker date="1488272435815" expanded="true" signature="38694:38986" ph="SELECT atten... attendance" />
+            <marker date="1488272435815" expanded="true" signature="42337:42609" ph="SELECT atten... attendance" />
+            <marker date="1488272435815" expanded="true" signature="42749:43045" ph="SELECT atten... attendance" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRdashboard/html/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" column="52" lean-forward="false" selection-start-line="68" selection-start-column="52" selection-end-line="68" selection-end-column="52" />
+          <folding>
+            <marker date="1488272596047" expanded="true" signature="699:724" ph="SELECT usern... info" />
+            <marker date="1488272596047" expanded="true" signature="1196:1327" ph="INSERT INTO info... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRdashboard/html/salary.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding>
+            <marker date="1488272641766" expanded="true" signature="491:516" ph="SELECT usern... info" />
+            <marker date="1488272641766" expanded="true" signature="616:690" ph="UPDATE info " />
+            <marker date="1488272641766" expanded="true" signature="2765:2783" ph="select * fro... info" />
+            <marker date="1488272641766" expanded="true" signature="2890:2918" ph="select * fro... info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRdashboard/html/indexs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1488273036797" expanded="true" signature="621:639" ph="select * fro... info" />
+            <marker date="1488273036797" expanded="true" signature="935:988" ph="UPDATE info " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRdashboard/html/index_employee_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="66" lean-forward="true" selection-start-line="65" selection-start-column="66" selection-end-line="65" selection-end-column="66" />
+          <folding>
+            <marker date="1488272484730" expanded="true" signature="178:243" ph="SELECT * FRO... info" />
+            <marker date="1488272484730" expanded="true" signature="343:385" ph="SELECT * FRO... info" />
+            <marker date="1488272484730" expanded="true" signature="1609:1634" ph="SELECT usern... info" />
+            <marker date="1488272484730" expanded="true" signature="2075:2232" ph="INSERT INTO info... " />
+            <marker date="1488272484730" expanded="true" signature="41394:41431" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/._index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Employee/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3111">
+          <caret line="183" column="13" lean-forward="false" selection-start-line="183" selection-start-column="13" selection-end-line="183" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRdashboard/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" column="39" lean-forward="false" selection-start-line="62" selection-start-column="39" selection-end-line="62" selection-end-column="39" />
+          <folding>
+            <marker date="1486499488000" expanded="true" signature="754:779" ph="SELECT usern... info" />
+            <marker date="1486499488000" expanded="true" signature="1228:1359" ph="INSERT INTO info... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRdashboard/dashboard/css/._core.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4098" lean-forward="false" selection-start-line="0" selection-start-column="4098" selection-end-line="0" selection-end-column="4098" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRdashboard/html/._employee_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRdashboard/dashboard/css/core.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="99" column="14" lean-forward="false" selection-start-line="99" selection-start-column="14" selection-end-line="99" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRdashboard/html/employee_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8177">
+          <caret line="481" column="38" lean-forward="false" selection-start-line="481" selection-start-column="38" selection-end-line="481" selection-end-column="38" />
+          <folding>
+            <marker date="1488272215820" expanded="true" signature="293:311" ph="select * fro... info" />
+            <marker date="1488272215820" expanded="true" signature="828:967" ph="UPDATE info " />
+            <marker date="1488272215820" expanded="true" signature="1674:1788" ph="INSERT INTO family_information... " />
+            <marker date="1488272215820" expanded="true" signature="3547:3572" ph="SELECT usern... info" />
+            <marker date="1488272215820" expanded="true" signature="3697:3912" ph="UPDATE info " />
+            <marker date="1488272215820" expanded="true" signature="5714:5739" ph="SELECT usern... info" />
+            <marker date="1488272215820" expanded="true" signature="5839:6287" ph="UPDATE info " />
+            <marker date="1488272215820" expanded="true" signature="7012:7037" ph="SELECT usern... info" />
+            <marker date="1488272215820" expanded="true" signature="7137:7341" ph="UPDATE info " />
+            <marker date="1488272215820" expanded="true" signature="7776:7801" ph="SELECT usern... info" />
+            <marker date="1488272215820" expanded="true" signature="7901:8023" ph="UPDATE info " />
+            <marker date="1488272215820" expanded="true" signature="8321:8346" ph="SELECT usern... info" />
+            <marker date="1488272215820" expanded="true" signature="8446:8525" ph="UPDATE info " />
+            <marker date="1488272215820" expanded="true" signature="8821:8846" ph="SELECT usern... info" />
+            <marker date="1488272215820" expanded="true" signature="8946:9023" ph="UPDATE info " />
+            <marker date="1488272215820" expanded="true" signature="9394:9419" ph="SELECT usern... info" />
+            <marker date="1488272215820" expanded="true" signature="9519:9611" ph="UPDATE info " />
+            <marker date="1488272215820" expanded="true" signature="11006:11058" ph="update info " />
+            <marker date="1488272215820" expanded="true" signature="11810:11835" ph="select * fro... upload_data" />
+            <marker date="1488272215820" expanded="true" signature="12338:12459" ph="INSERT into upload_data... " />
+            <marker date="1488272215820" expanded="true" signature="21390:21408" ph="select * fro... info" />
+            <marker date="1488272215820" expanded="true" signature="21514:21542" ph="select * fro... info" />
+            <marker date="1488272215820" expanded="true" signature="21589:21635" ph="select * fro... family_information" />
+            <marker date="1488272215820" expanded="true" signature="21682:21721" ph="select * fro... upload_data" />
+            <marker date="1488272215820" expanded="true" signature="51298:51352" ph="..." />
+            <marker date="1488272215820" expanded="true" signature="51519:51573" ph="..." />
+            <marker date="1488272215820" expanded="true" signature="106755:106790" ph="select * fro... info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRdashboard/html/index_employee_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="66" lean-forward="false" selection-start-line="65" selection-start-column="66" selection-end-line="65" selection-end-column="66" />
+          <folding>
+            <marker date="1488272484730" expanded="true" signature="178:243" ph="SELECT * FRO... info" />
+            <marker date="1488272484730" expanded="true" signature="343:385" ph="SELECT * FRO... info" />
+            <marker date="1488272484730" expanded="true" signature="1609:1634" ph="SELECT usern... info" />
+            <marker date="1488272484730" expanded="true" signature="2075:2232" ph="INSERT INTO info... " />
+            <marker date="1488272484730" expanded="true" signature="41394:41431" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRdashboard/html/attendance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="39" lean-forward="false" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
+          <folding>
+            <marker date="1488272435815" expanded="true" signature="482:561" ph="select * fro... attendance" />
+            <marker date="1488272435815" expanded="true" signature="928:1020" ph="UPDATE atten... " />
+            <marker date="1488272435815" expanded="true" signature="34267:34367" ph="UPDATE atten... " />
+            <marker date="1488272435815" expanded="true" signature="36866:36911" ph="select full_... info" />
+            <marker date="1488272435815" expanded="true" signature="38280:38516" ph="SELECT atten... attendance" />
+            <marker date="1488272435815" expanded="true" signature="38694:38986" ph="SELECT atten... attendance" />
+            <marker date="1488272435815" expanded="true" signature="42337:42609" ph="SELECT atten... attendance" />
+            <marker date="1488272435815" expanded="true" signature="42749:43045" ph="SELECT atten... attendance" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRdashboard/html/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" column="52" lean-forward="false" selection-start-line="68" selection-start-column="52" selection-end-line="68" selection-end-column="52" />
+          <folding>
+            <marker date="1488272596047" expanded="true" signature="699:724" ph="SELECT usern... info" />
+            <marker date="1488272596047" expanded="true" signature="1196:1327" ph="INSERT INTO info... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRdashboard/html/salary.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding>
+            <marker date="1488272641766" expanded="true" signature="491:516" ph="SELECT usern... info" />
+            <marker date="1488272641766" expanded="true" signature="616:690" ph="UPDATE info " />
+            <marker date="1488272641766" expanded="true" signature="2765:2783" ph="select * fro... info" />
+            <marker date="1488272641766" expanded="true" signature="2890:2918" ph="select * fro... info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HRdashboard/html/indexs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <marker date="1488273036797" expanded="true" signature="621:639" ph="select * fro... info" />
+            <marker date="1488273036797" expanded="true" signature="935:988" ph="UPDATE info " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
